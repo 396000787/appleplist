@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.31.6:8083/ico/csaaico57.png</string>
+					<string>http://csaa.ts.cphelp.cn/ico/csaaico57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.31.6:8083/ico/csaaico512.png</string>
+					<string>http://csaa.ts.cphelp.cn/ico/csaaico512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
